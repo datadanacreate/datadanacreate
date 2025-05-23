@@ -1,13 +1,22 @@
-<h1 align="center">Hi, I'm Dana Shelton</h1>
+<h1 align="center">Hi, I'm Dana. Welcome to my profile!</h1>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://ik.imagekit.io/datadana/IMG_1981.jpeg?updatedAt=1748026235758">
+  <source media="(prefers-color-scheme: light)" srcset="https://ik.imagekit.io/datadana/IMG_1981.jpeg?updatedAt=1748026235758">
+  <p align="center">
+  <img src="https://ik.imagekit.io/datadana/IMG_1981.jpeg?updatedAt=1748026235758" width="150" alt="Dana's Headshot" />
+</p>
+</picture>
+
 <h3 align="center">Passionate about navigating datasets to answer the most important business questions.</h3>
 
-- ⌨ I’m currently working on **Impact Analysis of GoodThought NGO Initiatives**
+- ⛏ I’m currently working on: **Impact Analysis of GoodThought NGO Initiatives**
 
 - 🌱 I’m currently learning **SQL, R, PowerBI, and Tableau**
 
-- 📧 How to reach me **dsshelton99@gmail.com**
+- 📧 How to reach me: **dsshelton99@gmail.com**
 
-- 🧝‍♀️ Fun fact **I enjoy reading fantasy novels in my free time**
+- 🧝‍♀️ Fun fact: **I enjoy reading fantasy novels in my free time**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
