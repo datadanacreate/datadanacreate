@@ -8,8 +8,6 @@
   <a href="https://datadanacreate.github.io/Dana-s_Portfolio/">My Portfolio</a>
 </p>
 
-<p align="center">🌱 I’m currently learning <strong>SQL, R, PowerBI, and Tableau</strong></p>
-
 <p align="center">📧 My contact: <strong>dsshelton99@gmail.com</strong></p>
 
 <p align="center">🧝‍♀️ Fun fact: <strong>I enjoy reading fantasy novels in my free time</strong></p>
