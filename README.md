@@ -2,8 +2,6 @@
 
 <h3 align="center">I am currently a financial services professional with 3+ years of experience in wealth management, now transitioning to data analytics. I'm eager to apply analytical skills to uncover insights, solve business challenges, and drive data-driven decision-making.</h3>
 
-<h3 align="center">Passionate about navigating datasets to answer the most important business questions.</h3>
-
 <p align="center">
   <a href="https://datadanacreate.github.io/Dana-s_Portfolio/">My Portfolio</a>
 </p>
